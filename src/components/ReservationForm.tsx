@@ -47,7 +47,7 @@ const ReservationForm = () => {
   };
 
   return (
-    <div className="max-w-4xl mx-auto p-12 m-8 bg-white rounded-lg shadow-lg w-[90%]">
+    <div className="sm:max-w-4xl mx-auto p-12 m-8 bg-white rounded-lg shadow-lg sm:w-[90%] w-scree">
       <form onSubmit={handleSubmit}>
         {step === 1 && (
           <div>
