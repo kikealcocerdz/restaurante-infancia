@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
+
   @font-face {
     font-family: 'Walter';
     font-style: normal;
@@ -33,7 +33,7 @@
   html {
     font-family: 'Roboto', sans-serif;
   }
-}
+
 
 textarea {
   resize: none;

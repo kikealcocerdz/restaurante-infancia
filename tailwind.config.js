@@ -11,6 +11,7 @@ export default {
       },
       fontFamily: {
         "Walter": ["Walter Turncoat", "cursive"],
+        "Lato": ["Lato", "sans-serif"],
       },
     },
   },
