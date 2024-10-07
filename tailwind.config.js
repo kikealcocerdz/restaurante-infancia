@@ -10,8 +10,6 @@ export default {
         "toystory": "url('/toystore.jpg')",
       },
       fontFamily: {
-        "Walter": ["Walter Turncoat", "cursive"],
-        "Lato": ["Lato", "sans-serif"],
       },
     },
   },
